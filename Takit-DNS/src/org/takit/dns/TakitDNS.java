@@ -68,7 +68,7 @@ public class TakitDNS extends JavaPlugin {
 			this.getServer().getScheduler().scheduleAsyncRepeatingTask(
 					this, 
 					runnable,
-					(interval*20)*60,
+					1,
 					(interval*20)*60
 				);
 		}
