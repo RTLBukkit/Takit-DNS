@@ -1,0 +1,4 @@
+name: Takit-DNS
+version: @version@
+main: org.takit.dns.takitdns.takitdns.TakitDNS
+api-version: 1.13
